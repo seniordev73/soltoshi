@@ -39,7 +39,7 @@ const HeroSection: React.FC = () => {
                 <span>Start Mining</span>
                 <img src="svg/diamond.svg" alt="Wallet Icon" className="w-5 h-5" />
             </button>
-            <p className="text-lg mt-8 mb-16 font-outfit"
+            <p className="text-lg mt-8 mb-7 font-outfit"
                 style={{
                     fontSize: '40px',
                     lineHeight: '40px',
